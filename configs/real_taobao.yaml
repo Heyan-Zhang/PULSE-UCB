@@ -1,0 +1,6 @@
+dataset: taobao
+base_data_path: data/taobao/preprocess
+raw_data_path: data/taobao
+observed_dims: 16
+num_arms: 20
+seeds: [123, 456, 789, 101, 202]
